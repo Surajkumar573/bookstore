@@ -1,0 +1,145 @@
+#h{
+          
+
+          padding-left:30px;
+      }
+      #h1{
+          
+
+          padding-left:970px;
+      }
+    
+      #left{
+        
+          width :50%;
+          height:700px;
+          float:left;
+          padding: 40px;
+          background-color:dodgerblue;
+    
+    }
+      
+    #right{
+        
+          width :50%;
+         float:right;
+        height:700px;
+             background-color:darkslateblue; 
+        
+    
+    }
+    
+      #c{
+          
+          padding: 40px;
+          height: 350px;
+      }
+       #c1{
+          
+          padding: 40px;
+          height: 350px;
+      }
+       #c2{
+          
+          padding-left: 70px;
+          height: 300px;
+      }
+      
+      #h11{
+      
+          margin-left:60px;
+          font-size:50px;
+          color:aliceblue;
+          
+      }
+      
+      h4{
+          margin-top: 30px;
+          color:aliceblue;
+          font-size:22px;
+      }
+      
+      #dev{
+          
+          width: 600px;
+          height:200px;
+          
+      }
+      
+      #last{
+          height:150px;
+		  margin-top: -10px;
+          background-color:aqua;
+          padding-left: 600px;
+      
+          padding-bottom:200px; 
+          
+      }
+      
+      #hq{
+          
+          margin-top: 90px;
+           margin-left: 40px;
+      }
+     
+      h2{
+          margin-left: 30px;
+          
+      }
+	  /* Footer Section */
+
+
+.social-icon {
+  margin: 30px 10px 20px 35px;
+  text-align: center;
+  padding: 1px;
+  font-size: 30px;
+}
+
+.foot{
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  margin-bottom: 0px;
+  background-color: #ff4c68;
+  margin-top: 45px;
+}
+.copy{
+  margin-top: -10px;
+}
+  color: #fff;
+  font-weight: 800px;
+  padding-top: 20px;
+}
+img{
+  margin:65px;
+  margin-top:20px;
+}
+@media (max-width:850px){
+.home{
+text-align:center;
+}
+#left{
+width:100%;
+}
+#left h4{
+font-size:25px;
+}
+#right{
+width:100%;
+}
+#dev{
+text-align:center;
+padding-left:-10px;
+width:505px;
+}
+#c,#c1,#c2{
+text-align:center;
+height:280px;
+}
+#h11{
+font-size:35px;
+text-align:center;
+}
+
+}
